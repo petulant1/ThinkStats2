@@ -19,4 +19,4 @@ setup(
     description='Supporting code for the book Think Stats 2e.',
     long_description=readme(),
 )
-#done using Anaconda mec 16AUG21
+#done using Anaconda mec 16AUG21 10:19a
